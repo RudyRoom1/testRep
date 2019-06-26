@@ -1,1 +1,0 @@
-private static final long HYBRIS_ORDER_OPERATION_TIMEOUT = 60000;
